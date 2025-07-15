@@ -62,6 +62,6 @@
 ## 📁 Exemple d’utilisation
 
 ```shell
-.\Launcher.bat
+.\LancerPareFeuMenu.bat
 # Sélectionne 1 : IcmpAllow.ps1
 # Autorise le ping IPv4 uniquement
